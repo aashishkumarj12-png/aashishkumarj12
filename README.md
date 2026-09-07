@@ -1,3 +1,33 @@
+# 👋 Hi, I'm Aashish Kumar Jha
+
+### 💻 Computer Science & Engineering Graduate | Aspiring Full-Stack Developer
+
+I am a **Computer Science & Engineering graduate** with a strong interest in **Web Development and Software Development**. I enjoy creating modern, responsive, and user-friendly websites and continuously improving my programming and development skills.
+
+I have hands-on experience with **HTML, CSS, JavaScript, and Python**, and I am currently focused on expanding my knowledge of modern frontend and full-stack technologies.
+
+I believe in learning by building real-world projects, solving problems, and continuously improving my skills. My long-term goal is to become a **skilled Full-Stack Developer** and contribute to meaningful software projects.
+
+---
+
+## 🏆 Achievements
+
+* 🎓 Successfully completed my **B.Tech in Computer Science & Engineering**.
+* 💻 Developed and practiced projects using **HTML, CSS, JavaScript, and Python**.
+* 📈 Worked on a **Stock Price Movement Forecasting** project using Machine Learning and Time-Series Analysis.
+* 🌐 Built and explored **responsive web development projects** to strengthen frontend development skills.
+* 🎨 Worked on **UI/UX-focused website concepts**, including a modern Guitar Shop website.
+* 🧠 Continuously improving my knowledge of programming, web development, and software technologies.
+* 🚀 Building projects independently to gain practical development experience.
+* 📚 Committed to continuous learning and becoming a professional **Full-Stack Developer**.
+
+---
+
+### 🌱 Current Focus
+
+**Frontend Development → JavaScript → React → Backend Development → APIs → Databases → Full-Stack Development**
+
+> **“Learn. Build. Improve. Repeat.” 🚀**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/aashish.jha.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instgram.com/aashishjha46) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Aj ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://www.x.com/aashish.jha.) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@aashishjha) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aashish kumar jha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashishkumarj12@gmail.com) 
